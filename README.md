@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedNasser173
-- 👀 I’m interested in mobile application
-- 🌱 I’m currently learning Futter 
+- 👀 I’m interested in sowftware development
+- 🌱 I’m currently learning backend (.net)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
